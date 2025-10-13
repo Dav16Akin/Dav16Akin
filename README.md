@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David (デビッド)</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Software Engineer | Game Development Enthusiast | Passionate About Scalable Systems & User-Centric Solutions</h3>
 
 - 🔭 I’m currently working on [Huzzl](https://github.com/Dav16Akin/huzzl)
