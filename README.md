@@ -1,8 +1,10 @@
 <h1 align=center> ⚙️ System Architect - ✨ David Akin ✨ - Backend Engineer ⚙️ </h1>
 
 <p align=center>
-<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94ZXB6Z3ZueHByZzZueHByZzZueHByZzZueHByZzZueHAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPQC1IdLz7dS/giphy.gif">
+<img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif">
 </p>
+
+<h2 align=center> Proudly, a Gopher </h2>
 
 <h2 align=center> Turning Logic into Scalable Reality </h2>
 
@@ -37,21 +39,6 @@
 
 ---
 
-## 📊 Terminal Analytics 📈
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dav16Akin&show_icons=true&theme=tokyonight&hide_border=true" alt="David Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav16Akin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-## 🏆 Achievements & Contributions ✨
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dav16Akin&theme=tokyonight&no-frame=true&no-bg=true&margin-w" />
-</p>
-
----
-
 ## 🤔 System Logs (FAQs) 🤔
 
 #### What is your preferred environment?
@@ -67,6 +54,3 @@ I’m either watching an Anime marathon, cheering for Liverpool, or out for a ru
 <i> The Pragmatic Programmer (Book by Andy Hunt and Dave Thomas), System Design Interview - An Insider's Guide Book by Alex, Distributed Services with Go (Book by Travis Jeffery), Building RESTful Web Services with Go: Learn how to Build Powerful RESTful APIs with Golang that Scale Gracefully (Book by Naren Yellavula) </i>
 
 ---
-<p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDav16Akin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</p>
