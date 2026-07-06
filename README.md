@@ -43,7 +43,7 @@ Liverpool FC. Always.
 
 ## Get in touch
 
-- **Portfolio** — [davidakin.vercel.app](https://davidakin.vercel.app)  
+- **Portfolio** — [davidakin.vercel.app](https://www.akindav.com/)  
 - **Email** — [akindav16@gmail.com](mailto:akindav16@gmail.com)  
 - **LinkedIn** — [linkedin.com/in/david-akin-40393123b](https://linkedin.com/in/david-akin-40393123b)  
 - **X** — [@codedbydavid](https://twitter.com/codedbydavid)
