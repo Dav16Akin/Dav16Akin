@@ -1,6 +1,6 @@
 # David Akin
 
-**Fullstack Engineer** · Go · TypeScript · React · Next.js
+**Fullstack Engineer** · Go · TypeScript · React · Next.js · Nodejs
 
 I build the parts of software people don't see — and make sure the parts they do see are fast.
 Currently focused on backend systems: APIs, distributed architecture, and clean data flows.
